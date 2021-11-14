@@ -219,7 +219,7 @@ GameObject:
   - component: {fileID: 1091303105}
   m_Layer: 0
   m_Name: Ground
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -348,10 +348,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  jumpRequest: 0
+  isGround: 0
   jumpForce: 8
   fallMultiplier: 2
   lowJumpMultiplier: 3
+  maxCoyoteTime: 0.25
+  jumpRequest: 0
 --- !u!61 &2094916877
 BoxCollider2D:
   m_ObjectHideFlags: 0
