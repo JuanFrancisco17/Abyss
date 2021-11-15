@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
     //----VARIABLES DE SALTO----
     
     //Variable que comprueba si el jugador está en el suelo
-    public bool _isGround;
+    private bool _isGround;
     //Fuerza del salto
     [SerializeField]
     float jumpForce;
@@ -31,7 +31,7 @@ public class PlayerController : MonoBehaviour
     //Variable que comprueba si esta el jugador en el Coyote Time
     private bool _isCoyoteTime = false;
     //Variable para ver si el jugador quiere saltar
-    public bool _jumpRequest = false;
+    private bool _jumpRequest = false;
 
     void Start()
     {
@@ -40,7 +40,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         //Comprobamos si puede saltar
-        if (Input.GetButtonDown("Up") && _isGround == true)
+        if (Input.GetButtonDown("Up") && (_isGround == true || _isCoyoteTime))
         {
             _jumpRequest = true;
             _isGround = false;
@@ -87,10 +87,11 @@ public class PlayerController : MonoBehaviour
     void OnCollisionExit2D(Collision2D collision)
     {
         _isCoyoteTime = true;
+        _isGround = false;
 
     }
 
-    void OnCollisionStay2D(Collision2D other) 
+    void OnCollisionEnter2D(Collision2D other) 
     {
         if (other.collider.tag == "Ground")
         {
