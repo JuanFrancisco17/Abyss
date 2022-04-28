@@ -1,34 +1,34 @@
 fileFormatVersion: 2
-guid: dea9e62225cb3f34e9afc7ed460dc524
+guid: f206d8e48b217f44ebd9db3d384d438b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9199699296988086275
-    second: plataformatileables2_0
+      213: 6429784428532217119
+    second: plataformastileables4_0
   - first:
-      213: 7309190997992152574
-    second: plataformatileables2_1
+      213: -4288783537744506744
+    second: plataformastileables4_1
   - first:
-      213: 6893420456095882797
-    second: plataformatileables2_2
+      213: 4655397270190434043
+    second: plataformastileables4_2
   - first:
-      213: -2964471110339770288
-    second: plataformatileables2_3
+      213: 6280687809090643126
+    second: plataformastileables4_3
   - first:
-      213: -6216886658700012456
-    second: plataformatileables2_4
+      213: 1313042688082826813
+    second: plataformastileables4_4
   - first:
-      213: 1543478438864890540
-    second: plataformatileables2_5
+      213: -6181727467059888400
+    second: plataformastileables4_5
   - first:
-      213: 5578385061348094112
-    second: plataformatileables2_6
+      213: -5736051796268903169
+    second: plataformastileables4_6
   - first:
-      213: 5202852621361693296
-    second: plataformatileables2_7
+      213: 2123885176837845953
+    second: plataformastileables4_7
   - first:
-      213: 8151886696844056342
-    second: plataformatileables2_8
+      213: 9084111007688387239
+    second: plataformastileables4_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -154,7 +154,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: plataformatileables2_0
+      name: plataformastileables4_0
       rect:
         serializedVersion: 2
         x: 0
@@ -168,14 +168,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 300c26db4c5ebaf70800000000000000
-      internalID: 9199699296988086275
+      spriteID: f15300d0fde2b3950800000000000000
+      internalID: 6429784428532217119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plataformatileables2_1
+      name: plataformastileables4_1
       rect:
         serializedVersion: 2
         x: 512
@@ -189,14 +189,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efd1ec6ac767f6560800000000000000
-      internalID: 7309190997992152574
+      spriteID: 880123a681e2b74c0800000000000000
+      internalID: -4288783537744506744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plataformatileables2_2
+      name: plataformastileables4_2
       rect:
         serializedVersion: 2
         x: 1024
@@ -210,14 +210,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2e9105c1695aaf50800000000000000
-      internalID: 6893420456095882797
+      spriteID: bf62602e62b4b9040800000000000000
+      internalID: 4655397270190434043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plataformatileables2_3
+      name: plataformastileables4_3
       rect:
         serializedVersion: 2
         x: 0
@@ -231,14 +231,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0584a494b351cd6d0800000000000000
-      internalID: -2964471110339770288
+      spriteID: 6b469fd294c792750800000000000000
+      internalID: 6280687809090643126
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plataformatileables2_4
+      name: plataformastileables4_4
       rect:
         serializedVersion: 2
         x: 512
@@ -252,14 +252,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 854125bb58e29b9a0800000000000000
-      internalID: -6216886658700012456
+      spriteID: d36d9163e5dd83210800000000000000
+      internalID: 1313042688082826813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plataformatileables2_5
+      name: plataformastileables4_5
       rect:
         serializedVersion: 2
         x: 1024
@@ -273,14 +273,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caa240366798b6510800000000000000
-      internalID: 1543478438864890540
+      spriteID: 0febe93fe97163aa0800000000000000
+      internalID: -6181727467059888400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plataformatileables2_6
+      name: plataformastileables4_6
       rect:
         serializedVersion: 2
         x: 0
@@ -294,14 +294,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a0bff168a76a6d40800000000000000
-      internalID: 5578385061348094112
+      spriteID: ff4962e38437560b0800000000000000
+      internalID: -5736051796268903169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plataformatileables2_7
+      name: plataformastileables4_7
       rect:
         serializedVersion: 2
         x: 512
@@ -315,14 +315,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07249faa4ee343840800000000000000
-      internalID: 5202852621361693296
+      spriteID: 1c33325c05e897d10800000000000000
+      internalID: 2123885176837845953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plataformatileables2_8
+      name: plataformastileables4_8
       rect:
         serializedVersion: 2
         x: 1024
@@ -336,8 +336,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6175f9e92c1512170800000000000000
-      internalID: 8151886696844056342
+      spriteID: 7aa6b71f4de311e70800000000000000
+      internalID: 9084111007688387239
       vertices: []
       indices: 
       edges: []

@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: plataformatileables2_2
+  m_Name: plataformastileables4_1
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 6893420456095882797, guid: dea9e62225cb3f34e9afc7ed460dc524, type: 3}
+  m_Sprite: {fileID: -4288783537744506744, guid: f206d8e48b217f44ebd9db3d384d438b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

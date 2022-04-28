@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Enemy1
   m_EditorClassIdentifier: 
   life: 10
-  speed: 1.5
+  speed: 2
   attack: 10

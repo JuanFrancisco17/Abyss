@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: plataformatileables2_7
+  m_Name: SetdeEsquinas_1
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 5202852621361693296, guid: dea9e62225cb3f34e9afc7ed460dc524, type: 3}
+  m_Sprite: {fileID: -6429309626862038751, guid: c79d0249d7ba9fd4a83cbb0bce9a9b50, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
